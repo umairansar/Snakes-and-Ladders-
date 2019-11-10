@@ -25,6 +25,6 @@ A high-level sketch of the game implementation is as follows. The game boards wi
 - For first checkpoint, components 1 to 4 are expected to be completed.
 - For final checkpoint, componenets 5 to 8 are expected to be implemented. 
 
-##### Libraries: Tkinter, Random, Socket, and Numpy will be used for the development. More libraries will be added later as necessary. 
+##### Libraries: Tkinter, Random, Socket, OpenCV, and Numpy will be used for the development. More libraries will be added later as necessary. 
 
 
