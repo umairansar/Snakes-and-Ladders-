@@ -19,7 +19,7 @@ Snakes & Ladders is an ancient Indian boardgame played widely today. The board h
 8. Save Game - saves the game and allows resume 
 
 ### Implementation 
-A high-level sketch of the game implementation is as follows. The game boards will be imported from web and displayed in a window using Tkinter. Mouse clicking functionality will be used to click the dice, which will generate a random number between 1 and 6. The tokens will be of different colors and will be generated as 'sprites' from the Tkinter library. To detect individual boxes on the board, CV2 may be used. Snakes and ladders are special case boxes and so parent-child model of classes may be used to add such added-functionality to the block.
+A high-level sketch of the game implementation is as follows. The game boards will be imported from web and displayed in a window using Tkinter. Mouse clicking functionality will be used to click the dice, which will generate a random number between 1 and 6. The tokens will be of different colors and will be generated as 'sprites' from the Tkinter library. To detect individual boxes on the board, OpenCV may be used. Snakes and ladders are special case boxes and so parent-child model of classes may be used to add such added-functionality to the block.
 
 ### Deliverables 
 - For first checkpoint, components 1 to 4 are expected to be completed.
