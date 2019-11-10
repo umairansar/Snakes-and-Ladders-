@@ -5,7 +5,7 @@ A Project for 15-112 @ CMU-Q
 This project aims to develop an online multiplayer game called Snakes & Ladder. The game (including the GUI) will be built from scratch using Python 3.7. 
 
 ### Description
-Snakes & Ladders is an ancient Indian boardgame played widely today. The board has boxes numbered from 1 to 100. The game usually consists of atleast 2 players (but 4 players gameplay is common as well). These player get to choose unique colored tokens. The first person who reaches 100th box wins. Some boxes have ladders leading to higher numbered box (boosting the player's chances of winning) or have snakes leading back to the lowered number box (reducing the player's chances of winning). The dice is numbered from 1 to 6. With each 6 the player gets to roll the dice again. However, three consecutive sixes will cancel all the score for this particular player.
+Snakes & Ladders is an ancient Indian boardgame played widely today. The board has boxes numbered from 1 to 100. The game usually consists of atleast 2 players (but 4 players gameplay is common as well). These player get to choose unique colored tokens. The first person who reaches 100th box wins. Some boxes have ladders leading to higher numbered box (boosting the player's chances of winning) or have snakes leading back to the lowered number box (reducing the player's chances of winning). The dice is numbered from 1 to 6. With each 6 the player gets to roll the dice again. However, three consecutive sixes from the dice will cancel all the accumulated score for this particular turn for the player.
 ###### A demo of the board can be found [here](http://toytheater.com/wp-content/uploads/snakes_and_ladders.gif).
 
 ### Components
