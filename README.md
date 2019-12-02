@@ -25,6 +25,14 @@ A high-level sketch of the game implementation is as follows. The game boards wi
 - For first checkpoint, components 1 to 4 are expected to be completed.
 - For final checkpoint, componenets 5 to 8 are expected to be implemented. 
 
+### Update
+- For onlinr gameplay, the players must have an account on the server for 15112.
+- Checkpoint 2 v3 is the main file for final checkpoint.
+- Checkpoint 2 v3 (duplicate v3) is for testing 2 player online gameplay.
+- To test it, I have hard-coded "mansar" and "mumar" so only send or receive play requests between these users. If you want to try with   other users, then the instructions to do that are in the main file (Checkpoint 2 v3).
+
 ##### Libraries: Tkinter, Random, Socket, OpenCV, and Numpy will be used for the development. More libraries will be added later as necessary. 
+
+
 
 
